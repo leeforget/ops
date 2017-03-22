@@ -1,4 +1,4 @@
-{% set cpus = pillar['mongo_pillar'][cpu] %}
+{% set cpus = pillar['mongo_pillar']['cpu'] %}
 test.html:
   file.managed:
     - name: /opt/soft/test.html
