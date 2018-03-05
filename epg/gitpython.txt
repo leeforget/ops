@@ -1,0 +1,34 @@
+
+#新建版本库对象
+repo = Repo('/data/liyongfu/testnginx/')
+git = repo.git
+git.add('test/1.sls')
+git.commit('-m','test 1.sls')
+
+
+
+git_url = 'http://liyongfu@10.10.121.99:8080/r/gitv/testnginx.git'
+repo_dir = '/data/liyongfu/testnginx/'
+
+
+repo = Repo(repo_dir)
+
+index = repo.index
+index.add(['test/1.sls'])
+
+index.commit('update test/1.sls')
+
+remote = repo.remote()
+remote.push()
+
+git.Git(repo_dir).clone(git_url)
+
+
+
+from git import Repo
+
+Repo.clone_from(git_url, repo_dir)
+
+
+
+
