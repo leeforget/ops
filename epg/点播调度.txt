@@ -1,0 +1,53 @@
+
+salt 10.10.121.23 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.10.121.29 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.24.130.13 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.24.130.14 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.25.130.44 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.25.130.45 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.25.131.27 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.25.131.28 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.25.131.42 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.25.131.43 state.sls open_platform.open.epg.openrouter -l debug
+完成
+salt 10.29.130.27 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.29.130.28 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.37.130.22 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.37.130.23 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.37.131.11 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.37.131.12 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.53.130.30 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.53.130.31 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.53.130.51 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.53.130.52 state.sls open_platform.open.epg.openrouter -l debug
+完成
+salt 10.53.130.85 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.53.130.86 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.54.130.22 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.54.130.23 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.54.130.63 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.54.130.64 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.54.130.88 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.54.130.89 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.55.130.228 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.55.130.229 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.57.130.119 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.57.130.120 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.57.130.143 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.57.130.96 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.58.130.31 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.58.130.32 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.58.130.50 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.58.130.51 state.sls open_platform.open.epg.openrouter -l debug
+
+salt 10.88.130.12 state.sls open_platform.open.epg.openrouter -l debug
+salt 10.88.130.13 state.sls open_platform.open.epg.openrouter -l debug
